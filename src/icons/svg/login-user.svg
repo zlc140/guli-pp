@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>账号</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.1登录页" transform="translate(-787.000000, -499.000000)" stroke="#999999">
+            <g id="Group-3" transform="translate(723.000000, 311.000000)">
+                <g id="账号" transform="translate(65.000000, 189.000000)">
+                    <circle id="Oval" cx="14" cy="14" r="14"></circle>
+                    <circle id="Oval" cx="14" cy="11" r="5"></circle>
+                    <path d="M23.8151688,24.0764402 C22.9183908,19.4739294 18.8648852,16 14,16 C9.1731957,16 5.1451183,19.4197564 4.20646952,23.9685674" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

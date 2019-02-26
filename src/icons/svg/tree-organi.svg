@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>组icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1.55555556 2.33333333 1.58973524 11.5536838 12.5283746 11.5536838 12.4941949 4.59412977 7.39534505 4.5952691 5.42127821 2.33333333"></polygon>
+    </defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.2搜索组织架构" transform="translate(-244.000000, -207.000000)">
+            <g id="Group-13" transform="translate(224.000000, 136.000000)">
+                <g id="Group" transform="translate(0.000000, 56.000000)">
+                    <g id="folder" transform="translate(21.000000, 15.000000)">
+                        <g id="Path-8">
+                            <use fill="#C1D8FD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <path stroke="#C1D8FD" stroke-width="2" d="M7.84979977,3.59516753 L13.4892947,3.5939074 L13.5332978,12.5536838 L0.593435356,12.5536838 L0.551841701,1.33333333 L5.87582158,1.33333333 L7.84979977,3.59516753 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

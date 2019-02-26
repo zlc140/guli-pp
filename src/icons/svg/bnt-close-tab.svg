@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>关闭</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.2.4考勤打卡/考勤点/选择" transform="translate(-1230.000000, -643.000000)">
+            <g id="选择层-copy-2" transform="translate(590.000000, 460.000000)">
+                <g id="架构">
+                    <g id="已选择" transform="translate(346.000000, 9.000000)">
+                        <g id="Group-4" transform="translate(8.000000, 174.000000)">
+                            <g id="控件-关闭btn" transform="translate(286.000000, 0.000000)">
+                                <circle id="Oval" fill-opacity="0.3" fill="#000000" cx="8" cy="8" r="7.11111111"></circle>
+                                <g id="合并形状" transform="translate(0.888889, 0.888889)" fill="#FFFFFF">
+                                    <path d="M6.59615385,6.59615385 L6.59615385,2.15384615 L7.67307692,2.15384615 L7.67307692,6.59615385 L11.8461538,6.59615385 L11.8461538,7.67307692 L7.67307692,7.67307692 L7.67307692,11.8461538 L6.59615385,11.8461538 L6.59615385,7.67307692 L2.15384615,7.67307692 L2.15384615,6.59615385 L6.59615385,6.59615385 Z" id="Combined-Shape" transform="translate(7.000000, 7.000000) rotate(45.000000) translate(-7.000000, -7.000000) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

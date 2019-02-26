@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>人icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.2搜索组织架构" transform="translate(-244.000000, -293.000000)" fill="#C1D8FD">
+            <g id="Group-13" transform="translate(224.000000, 136.000000)">
+                <g id="Group-4" transform="translate(20.000000, 144.000000)">
+                    <path d="M9.69447394,20.2035224 C10.6857198,19.4644171 11.3251426,18.3195328 11.3251426,17.0329709 C11.3251426,14.8090886 9.42011752,13 7.07818482,13 C4.73625212,13 2.83122705,14.8089773 2.83122705,17.0329709 C2.83122705,18.3196441 3.47135298,19.4644171 4.4618957,20.2035224 C1.85181797,21.1940415 0,23.6156938 0,26.4433476 L0,27.7876713 C0,28.1592829 0.316547076,28.46 0.70786536,28.46 L13.4486215,28.46 C13.8398226,28.46 14.1562524,28.1593942 14.1562524,27.7876713 L14.1562524,26.4434589 C14.1563696,23.6149148 12.3052548,21.1940415 9.69447394,20.2035224 Z" id="人icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

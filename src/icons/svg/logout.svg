@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>退出</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1组织架构" transform="translate(-1244.000000, -21.000000)" stroke="#333333" stroke-width="2">
+            <g id="顶部">
+                <g id="个人中心等" transform="translate(1161.000000, 19.000000)">
+                    <g id="退出登录icon" transform="translate(81.000000, 0.000000)">
+                        <polyline id="Path-10" points="12 3 3 3 3 16 12 16"></polyline>
+                        <path d="M9.5,9.5 L14,9.5" id="Line" stroke-linecap="square"></path>
+                        <polyline id="Path-4" transform="translate(13.285534, 9.500000) scale(-1, 1) rotate(45.000000) translate(-13.285534, -9.500000) " points="11.315864 7.53033009 11.315864 11.4696699 15.2552038 11.4696699"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

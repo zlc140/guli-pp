@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="28px" viewBox="0 0 23 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>密码</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.1登录页" transform="translate(-790.000000, -580.000000)" stroke="#999999">
+            <g id="Group-3" transform="translate(723.000000, 311.000000)">
+                <g id="Group-5" transform="translate(67.000000, 269.000000)">
+                    <g id="密码">
+                        <rect id="Rectangle-3" x="0.5" y="11.5" width="22" height="16" rx="1.5"></rect>
+                        <circle id="Oval-4" cx="11.5" cy="19.5" r="3.5"></circle>
+                        <path d="M5.5,11.2870233 L18.4906722,6.58005984 C18.3082546,3.19286108 15.4731155,0.5 12,0.5 C8.40898774,0.5 5.5,3.37878524 5.5,6.92732266 L5.5,11.2870233 Z" id="Rectangle-13"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

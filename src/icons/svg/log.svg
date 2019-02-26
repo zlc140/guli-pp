@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>系统日志</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="1.1组织架构" transform="translate(-21.000000, -363.000000)">
+            <g id="左侧菜单">
+                <g id="系统日志" transform="translate(0.000000, 344.000000)">
+                    <g transform="translate(16.000000, 16.000000)">
+                        <g>
+                            <rect id="Rectangle-9" x="0" y="0" width="24" height="24"></rect>
+                            <g id="Group-12" transform="translate(5.000000, 3.500000)" fill="#FFFFFF" fill-rule="nonzero">
+                                <rect id="Rectangle-path" x="4" y="11.5415853" width="6" height="2"></rect>
+                                <rect id="Rectangle-path" x="4" y="7.91910807" width="6" height="2"></rect>
+                                <path d="M9.42907386,0 L0,0.0201374082 L0,1.9533286 L0,15.0668088 L0,15.5037906 L0,17 L14,17 L14,15.6125326 L14,15.0668088 L14,4.48057332 L9.42907386,0 Z M11.207796,4.48057332 L8.64126612,4.48057332 L8.64126612,1.95936982 L11.207796,4.48057332 Z M1.96951934,1.9533286 L6.67174678,1.9533286 L6.67174678,6.41376451 L7.67702227,6.41376451 L8.64126612,6.41376451 L12.0325322,6.41376451 L12.0325322,15.0668088 L1.96951934,15.0668088 L1.96951934,1.9533286 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

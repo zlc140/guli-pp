@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>反馈记录</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EHR后台管理视觉效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="1.1组织架构" transform="translate(-19.000000, -307.000000)">
+            <g id="左侧菜单">
+                <g id="反馈记录" transform="translate(0.000000, 288.000000)">
+                    <g transform="translate(16.000000, 16.000000)">
+                        <g>
+                            <rect id="Rectangle-9" opacity="0.600000024" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M13.6116935,15.5728459 L13.6116935,14.6893625 L17.9933613,14.6893625 L17.9933613,9.52457557 L19.8961099,9.52457557 L19.8961099,16.6269144 L17.9933613,16.6269144 L15.5104822,16.6269144 L15.5104822,20.5 L13.6097135,20.5 L9.8081761,16.6269144 L5.40274866,16.6269144 L3.5,16.6269144 L3.5,5.0076576 L5.40274866,5.0076576 L13.5720941,5.0076576 L13.5720941,6.94520955 L5.40274866,6.94520955 L5.40274866,14.6893625 L10.5962031,14.6893625 L13.6097135,17.7611896 L13.6097135,15.5728459 L13.6116935,15.5728459 Z M12.8890054,11.2582809 L12.9226648,9.85153746 L19.1556021,3.5 L20.5,4.86839606 L14.2670627,11.2219518 L12.8890054,11.2582809 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
