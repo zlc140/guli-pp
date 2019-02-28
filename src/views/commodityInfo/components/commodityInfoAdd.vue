@@ -21,6 +21,7 @@
       </div>
       <el-form-item label="链接地址" prop="linkAddress">
         <el-input v-model="ruleForm.url"></el-input>
+        <p class="tip">请填写完整的连接地址 eg: http://www.pulipulai.com</p>
       </el-form-item>
       <el-form-item class="btn">
         <el-button type="primary" @click="submitForm">保存信息</el-button>
@@ -73,7 +74,7 @@ export default {
       }
     },
     submitForm(fomName) {
-      loadData('goods/save', this.ruleForm).then(data => {
+      loadData('/goods/save', this.ruleForm).then(data => {
         this.$message({
           message: data.message,
           type: 'success'
@@ -87,6 +88,9 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+  .tip{
+    color:red;
+  }
 .main {
   /deep/ .el-form {
     padding: 20px 20px;

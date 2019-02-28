@@ -14,6 +14,78 @@ module.exports = {
       //   target: EDIT_HREF,
       //   changeOrigin: true
       // }
+      // '/admin': {
+      //   target: "http://127.0.0.1:8001",
+      //   pathRewrite: {
+      //     '^/admin': '/admin',
+      //   }
+      // },
+      '/goods': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/goods': '/goods',
+        }
+      },
+      '/store': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/store': '/store',
+        }
+      },
+      '/article_menu': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/article_menu': '/article_menu',
+        }
+      },
+      '/member_gift': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/member_gift': '/member_gift',
+        }
+      },
+      '/member': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/member': '/member',
+        }
+      },
+      '/member_message': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/member_message': '/member_message',
+        }
+      },
+      '/article_content': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/article_content': '/article_content',
+        }
+      },
+      '/rotate': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/rotate': '/rotate',
+        }
+      },
+      '/file': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/file': '/file',
+        }
+      },
+      '/upload': {
+        target: "http://127.0.0.1:8001",
+        pathRewrite: {
+          '^/upload': '/upload',
+        },
+        '/video': {
+          target: "http://127.0.0.1:8001",
+          pathRewrite: {
+            '^/video': '/video',
+          }
+        }
+      }
     },
 
     // Various Dev Server settings

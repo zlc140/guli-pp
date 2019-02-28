@@ -63,7 +63,7 @@ export default {
         return false
       }
       console.log(this.loginForm)
-      loadData('admin/login', this.loginForm).then(
+      loadData('/admin/login', this.loginForm).then(
         data => {
           if (data.status === '200') {
             this.$store

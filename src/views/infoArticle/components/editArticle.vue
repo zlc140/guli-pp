@@ -51,7 +51,7 @@ export default {
       })
     },
     submitForm() {
-      loadData('article_content/save', this.ruleForm).then(data => {
+      loadData('/article_content/save', this.ruleForm).then(data => {
         this.$message({
           message: data.message,
           type: 'success'

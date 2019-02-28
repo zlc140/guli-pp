@@ -109,6 +109,27 @@ export const constantRouterMap = [
     ]
   },
   {
+    path: '/videoAdmin',
+    name: 'VideoAdmin',
+    component: Layout,
+    meta: { title: '视频管理', icon: '3' },
+    children: [
+      {
+        path: 'list',
+        name: 'videoAdminList',
+        component: _import('videoAdmin/videoInfo'),
+        meta: { title: '视频展示', icon: '' }
+      },
+      {
+        path: 'manage',
+        hidden: true,
+        name: 'videoAdminManage2',
+        component: _import('videoAdmin/addVideo'),
+        meta: { title: '视频管理', icon: '' }
+      }
+    ]
+  },
+  {
     path: '/storeAdmin',
     name: 'StoreAdmin',
     component: Layout,

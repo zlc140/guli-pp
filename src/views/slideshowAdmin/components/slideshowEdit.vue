@@ -27,6 +27,7 @@
       </div>
       <el-form-item label="链接地址" prop="linkAddress" v-if="isShow">
         <el-input v-model="ruleForm.url"></el-input>
+        <p class="tip">请填写完整的连接地址 eg: http://www.pulipulai.com</p>
       </el-form-item>
       <el-form-item label="文章内容" prop="contentsArticle" v-if="!isShow">
         <!-- <el-input type="textarea" v-model="ruleForm.desc"></el-input> -->
@@ -108,7 +109,7 @@ export default {
     },
     submitForm() {
       console.log(this.ruleForm)
-      loadData('rotate/save', this.ruleForm).then(data => {
+      loadData('/rotate/save', this.ruleForm).then(data => {
         this.$message({
           message: data.message,
           type: 'success'
@@ -123,6 +124,9 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+  .tip{
+    color:red;
+  }
 .main {
   /deep/ .el-form {
     padding: 20px 20px;

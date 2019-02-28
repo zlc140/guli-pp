@@ -80,7 +80,7 @@ export default {
       this.addDialogVisible = false
     },
     addOnSubmit() {
-      loadData('store/save', this.form).then(data => {
+      loadData('/store/save', this.form).then(data => {
         this.$message({
           message: data.message,
           type: 'success'

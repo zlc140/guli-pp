@@ -30,7 +30,7 @@ export default {
   },
   methods: {
     submitForm() {
-      loadData('article_menu/save', this.ruleForm).then(data => {
+      loadData('/article_menu/save', this.ruleForm).then(data => {
         this.$message({
           message: data.message,
           type: 'success'

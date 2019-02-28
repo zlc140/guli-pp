@@ -11,13 +11,20 @@ import router from './router'
 import store from './store'
 import '@/icons' // icon
 
-import VueQuillEditor from 'vue-quill-editor'
+import VueEditor from './components/vueEditor'
 import 'quill/dist/quill.core.css'
 import 'quill/dist/quill.snow.css'
 import 'quill/dist/quill.bubble.css'
 import '@/styles/index.scss' // global css
 Vue.use(ElementUI)
-Vue.use(VueQuillEditor)
+
+const quillEditor = {
+  install: function(Vue) {
+    Vue.component('quillEditor', VueEditor)
+  }
+}
+
+Vue.use(quillEditor)
 Vue.config.productionTip = false
 
 new Vue({
