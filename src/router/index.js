@@ -340,6 +340,11 @@ const RouterInstance = new Router({
 })
 RouterInstance.beforeEach((to, from, next) => {
   NProgress.start() // 开始Progress
+  if (to.path.indexOf('login') < 0 && !store.getters.token) { // 检测非登录也是否已经登录
+    NProgress.done()
+    next('/login')
+    return
+  }
   document.title = to.meta.title
   if (to.name !== 'Index') {
     store.commit('setTabInfo', {

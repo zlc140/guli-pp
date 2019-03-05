@@ -38,7 +38,7 @@
 </template>
 <script>
   import { loadData } from '@/api/common'
-  import { imgUrl } from '@/api/url'
+  import { videoUrl } from '@/api/url'
   import moment from 'moment'
   import videojs from 'video.js'
 
@@ -61,7 +61,7 @@
   export default {
     data() {
       return {
-        imgUrl,
+        videoUrl,
         videoData: {},
         videoPath: '',
         type:''
@@ -100,11 +100,12 @@
         }).then(data => {
           // this.videoData = data.data && data.data.videoPath ? data.data : null;
           this.videoData = null
-          if(data.data && data.data.length > 0) {
-            this.videoData = data.data[data.data.length -1]
+          if (data.data && data.data.length > 0) {
+            this.videoData = data.data[data.data.length - 1]
           }
-          if(!this.videoData) return
-          this.videoPath = this.videoData.videoPath
+          if (!this.videoData) return
+          this.videoPath = this.videoData.videoId ? videoUrl + this.videoData.videoId : this.videoData.videoUrl;
+
           let res = this.videoPath.match(/\.([^./]*)$/)
           res = res ? res[1].toLowerCase() : 'mp4'
           this.type = TYPES[res].type

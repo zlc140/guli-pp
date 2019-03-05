@@ -5,6 +5,8 @@ export const login = `${BASE_HREF}/login`
 
 export const imgUrl = `${BASE_API}/file/img/`
 
+export const videoUrl = `${BASE_API}/upload/video/`
+
 export const imgUpload = `${BASE_API}/file/save`
 
 export const videoUpload = `${BASE_API}/upload/upload`

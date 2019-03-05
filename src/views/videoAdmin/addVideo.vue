@@ -79,7 +79,7 @@
     methods: {
       uploadSuccMsgUrl(retData, file) {
 
-        this.ruleForm.fileId = retData.data.fileId
+        this.ruleForm.fileId = retData.data.videoPath
         if (retData.status === 200) {
           this.$message({
             message: retData.message,
@@ -115,7 +115,8 @@
         }
         let prop = {
           videoName: this.ruleForm.videoName,
-          videoPath: this.isShow ? this.ruleForm.url : this.ruleForm.fileId
+          videoPath: this.isShow ? '' : this.ruleForm.fileId,
+          videoUrl: this.isShow ? this.ruleForm.url : ''
         }
         loadData('/video/save', prop).then(data => {
           this.$message({
